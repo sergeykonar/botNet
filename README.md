@@ -1,4 +1,4 @@
-# botNet
+# 0.1 alpha
 My simple botnet Java application
 
 [!] COMMANDS:
