@@ -14,5 +14,4 @@ mkdirDes - creates directory on the Desctop \n
 
 [!] INFO:
 Last update: 08.05.2020
-***
 Current version: 0.1 alpha
